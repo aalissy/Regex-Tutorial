@@ -48,7 +48,7 @@ Typically in a regex groups are made by using parantheses. Because of this, we c
 
 ### Bracket Expressions
 
-The brackets in a regex represents the range of characters that we want to match. As shown in our grouping and capturing chapter listed above, we once again see that there are three bracket expressions in our example. As before, the bracket expressions are our email name, host name, and domain name. These describe the a-z characters as well as the numbers used.
+The brackets in a regex represents the range of characters that we want to match. As shown in our grouping and capturing chapter listed above, we once again see that there are three bracket expressions in our example. As before, the bracket expressions are our email name which is ([a-z0-9_\.-]+), our host name which is ([\da-z\.-]+), and our domain name which is ([a-z\.]{2,6}). These describe the a-z characters as well as the numbers used.
 
 ### Greedy and Lazy Match
 
