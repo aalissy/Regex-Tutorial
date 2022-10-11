@@ -70,4 +70,4 @@ Though there are no look-aheads or look-behinds, also known as lookarounds, in o
 
 Alyssa Gantos is currently a student at Vanderbilt's coding bootcamp. Below you will find a link to her Github which features a multitude of her other projects. Thank you for reading and enjoying this tutorial for an email regex!
 
-[Alyssa's Github] (https://github.com/aalissy)
+[Alyssa's Github](https://github.com/aalissy)
